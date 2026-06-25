@@ -20,7 +20,7 @@ The project follows a standard 5-step machine learning workflow:
 ### Model Performance & Feature Weights
 The pipeline automatically exports your results into a combined visual layout. The charts help you check your model's prediction accuracy (left) and discover exactly which features (like median income or location) have the biggest impact on housing prices (right).
 
-![California Housing Model Performance](images/plots_combined.png)
+![california_housing](images/plots_combined.png)
 
 ---
 
