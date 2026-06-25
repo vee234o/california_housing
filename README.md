@@ -1,6 +1,6 @@
 # California Housing Price Prediction Pipeline
 
-A clean and simple Machine Learning project built to predict median house values in California using a Random Forest Regressor. It takes raw housing data, processes it, trains an AI model, and visualizes the results.
+A simple Machine Learning project built to predict median house values in California using a Random Forest Regressor. It takes raw housing data, processes it, trains an AI model, and visualizes the results.
 
 ---
 
@@ -46,7 +46,7 @@ Run the pipeline script to execute the entire process from data loading to gener
 Bash
 python pipeline.py
 🗂️ Project Structure
-pipeline.py – The complete, step-by-step machine learning Python code.
+model.ipynb – The complete, step-by-step machine learning Python code.
 
 housing.csv – The dataset containing historical California housing metrics.
 
